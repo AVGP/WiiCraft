@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WiiCraft</name>
+  <coder>twonky</coder>
+  <version>0.3.0</version>
+  <release_date>201204261729</release_date>
+  <no_ios_reload/>
+  <short_description>Minecraft Client for Wii.</short_description>
+  <long_description>Minecraft Client written in C++ for Wii.</long_description>
+</app>
