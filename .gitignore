@@ -16,5 +16,7 @@
 *.lib
 
 # Executables
+*.elf
+*.dol
 *.out
 *.app
